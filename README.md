@@ -21,3 +21,12 @@ git status // to track the changes in files
 
 used to create a new git repo
 
+# git branches
+
+git branch // checks the current branch
+
+git checkout -b feature // create and switch to new branch feature
+
+git checkout main // switch to main branch
+
+git branch -d test // delete the test branch
