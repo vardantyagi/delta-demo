@@ -7,8 +7,17 @@ Vardan Tyagi
 # commands to add and commit changes to github
 
 git add . // stage all the changes
-git commit -m "message" // changes done on local machine only not on github
+
+git commit -m "message" // changes done on local 
+
+machine only not on github
+
 git push // reflect on github
 
 .......................................
 git status // to track the changes in files
+
+# git init
+
+used to create a new git repo
+
